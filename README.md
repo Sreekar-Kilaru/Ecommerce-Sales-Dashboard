@@ -11,6 +11,6 @@ Here are some of the important questions which were answered through this report
 
 Here is the preview of the Complete report which consists of different charts and visuals. 
 
-https://github.com/Sreekar-Kilaru/Ecommerce-Sales-Dashboard/assets/153851577/16543668-2fc5-44ef-bbe2-23fddb6018bc
+https://github.com/Sreekar-Kilaru/Ecommerce-Sales-Dashboard/assets/153851577/16543668-2fc5-44ef-bbe2-23fddb6018bc 
 
 
